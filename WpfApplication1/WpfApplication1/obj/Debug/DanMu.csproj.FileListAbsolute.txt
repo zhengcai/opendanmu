@@ -1,0 +1,17 @@
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DanMu.csproj.GenerateResource.Cache
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\DanMu.exe.config
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\DanMu.exe
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\DanMu.pdb
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DanMu_MarkupCompile.cache
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DanMu.g.resources
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DanMu.Properties.Resources.resources
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DanMu.exe
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DanMu.pdb
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\DanMu.exe.manifest
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\DanMu.application
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DanMu.exe.manifest
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DanMu.application
+C:\Users\zheng\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DanMu.csprojResolveAssemblyReference.cache
